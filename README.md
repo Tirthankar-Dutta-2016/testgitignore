@@ -1,5 +1,5 @@
-# Repo Name: testgitignore
+1. Repo Name: testgitignore
 
-# Purpose: Create and test the working of the `.gitignore` file. 
+2. Purpose: Create and test the working of the `.gitignore` file. 
 
-# Date: 14 Oct 2021
+3. Date: 14 Oct 2021
